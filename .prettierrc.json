@@ -1,0 +1,10 @@
+{
+  "printWidth": 200,
+  "trailingComma": "es5",
+  "singleQuote": true,
+  "tabWidth": 4,
+  "useTabs": true,
+  "bracketSpacing": true,
+  "endOfLine": "lf",
+  "overrides": [{ "files": "*.json", "options": { "singleQuote": false } }]
+}
